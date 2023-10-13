@@ -3,9 +3,9 @@ This game is based on the historical "war" between Tesla and Edison. Tesla sent 
 
 This project helped me to learn about Java Programming. I used different design patterns. For example, for implementing the Log In Page I used the Proxy Design Pattern. In this way, the user's progress will be saved in a Database. For the Database I have used SQLite. Also, for the complex classes I have used the Builder Desing Pattern.
 
-![Screenshot 2023-05-18 165808](https://github.com/danielradu10/Tesla-s-revenge/assets/101790339/944c5a38-04cc-447d-8ba1-a5263ae977e4)
-
 ![Screenshot 2023-05-18 165745](https://github.com/danielradu10/Tesla-s-revenge/assets/101790339/841d43e9-5d77-4eb3-b216-5d528933acca)
+
+![Screenshot 2023-05-18 165808](https://github.com/danielradu10/Tesla-s-revenge/assets/101790339/944c5a38-04cc-447d-8ba1-a5263ae977e4)
 
 ![Screenshot 2023-04-22 073417](https://github.com/danielradu10/Tesla-s-revenge/assets/101790339/b88b08b9-d4c8-44da-a112-c6469845925d)
 
