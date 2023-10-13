@@ -7,9 +7,9 @@ This project helped me to learn about Java Programming. I used different design 
 
 ![Screenshot 2023-05-18 165745](https://github.com/danielradu10/Tesla-s-revenge/assets/101790339/841d43e9-5d77-4eb3-b216-5d528933acca)
 
-![Screenshot 2023-04-22 085633](https://github.com/danielradu10/Tesla-s-revenge/assets/101790339/429e371d-6060-4943-812e-f8296db6c8fb)
-
 ![Screenshot 2023-04-22 073417](https://github.com/danielradu10/Tesla-s-revenge/assets/101790339/b88b08b9-d4c8-44da-a112-c6469845925d)
+
+![Screenshot 2023-04-22 085633](https://github.com/danielradu10/Tesla-s-revenge/assets/101790339/429e371d-6060-4943-812e-f8296db6c8fb)
 
 ![Screenshot 2023-04-22 085557](https://github.com/danielradu10/Tesla-s-revenge/assets/101790339/2ff56940-5434-4276-8fa8-5d950176d83f)
 
